@@ -1,6 +1,20 @@
 # 🎉 ByteFest 2K25 – Official Event Website
 
-Welcome to the official repository for **ByteFest 2K25**, a tech fest organized by M.B.E. Society's College of Engineering, Ambajogai.  
+Welcome to the official repository for **ByteFest 2K25**, a tech fest organized by M.B.E. Society's College of Engineering, Ambajogai.
+This is a fully responsive static website containing all event details, rules, registration forms, and more.
+
+🌐 **Live Website:** [bytefest2k25.netlify.app](https://bytefest2k25.netlify.app)
+
+---
+
+## 📁 Project Structure
+Here is the corrected README.md file content, with the merge conflict resolved. I've removed the Git conflict markers (<<<<<<< HEAD, =======, >>>>>>> c1a891c31396a020fef6418e891785b67b8d8fc2) and the conflicting line (# ByteFest2K25), leaving only the detailed content you wanted to keep.
+
+Markdown
+
+# 🎉 ByteFest 2K25 – Official Event Website
+
+Welcome to the official repository for **ByteFest 2K25**, a tech fest organized by M.B.E. Society's College of Engineering, Ambajogai.
 This is a fully responsive static website containing all event details, rules, registration forms, and more.
 
 🌐 **Live Website:** [bytefest2k25.netlify.app](https://bytefest2k25.netlify.app)
@@ -9,18 +23,17 @@ This is a fully responsive static website containing all event details, rules, r
 
 ## 📁 Project Structure
 
-```
 ByteFest2K25/
-├── index.html                 # Main homepage
-├── css/                      # Stylesheets
-│   └── style.css             # Consolidated styles (from common.min.css + main.css)
-├── js/                       # JavaScript files
-│   └── app.js                # Consolidated scripts (from main.js + inline)
-├── images/                   # All images and assets
-│   ├── logos/                # Event logos
-│   ├── backgrounds/          # Background images
-│   └── posters/              # Event posters
-├── trash/                    # Unused files (can be deleted)
+├── index.html                 # Main homepage
+├── css/                      # Stylesheets
+│   └── style.css             # Consolidated styles (from common.min.css + main.css)
+├── js/                       # JavaScript files
+│   └── app.js                # Consolidated scripts (from main.js + inline)
+├── images/                   # All images and assets
+│   ├── logos/                # Event logos
+│   ├── backgrounds/          # Background images
+│   └── posters/              # Event posters
+├── trash/                    # Unused files (can be deleted)
 ├── code-of-conduct.html
 ├── coding-challenge.html
 ├── debug-quest.html
@@ -34,7 +47,7 @@ ByteFest2K25/
 ├── registration.html
 ├── tech-debate.html
 └── terms-of-service.html
-```
+
 
 ---
 
@@ -53,7 +66,7 @@ ByteFest2K25/
 
 ## 🛠️ Built With
 
-- **HTML5** – Semantic page structure  
+- **HTML5** – Semantic page structure
 - **CSS3** – Modern styling with Flexbox and Grid
 - **JavaScript (ES6+)** – Interactive functionality
 - **Tailwind CSS** – Utility-first CSS framework
@@ -90,8 +103,8 @@ ByteFest2K25/
 - Organized all images into the `images/` folder
 - Updated image paths where necessary
 - Proposed renames for clarity (pending decision):
-  - backgrounds/r_overview.jpg → backgrounds/overview-teamwork.jpg
-  - logos/logo_coding_challenge.avif → logos/event-card-coding.avif
+  - backgrounds/r_overview.jpg → backgrounds/overview-teamwork.jpg
+  - logos/logo_coding_challenge.avif → logos/event-card-coding.avif
 
 ### ✅ Contact Information
 - Removed Rohit Nilesh Evenwar's contact details as requested
@@ -114,7 +127,7 @@ ByteFest2K25/
 
 **Faculty Organizers:**
 - Prof. Sushil V. Kulkarni
-- Prof. Shivcharan S. Waghmare  
+- Prof. Shivcharan S. Waghmare
 - Prof. Abhijeet S. Dahiwade
 
 ---
@@ -134,5 +147,5 @@ The `trash/` folder contains unused files that can be safely deleted:
 
 ---
 
-> 💡 _"Code it. Host it. Show the world."_  
+> 💡 _"Code it. Host it. Show the world."_
 > ✨ Proud contributor to student innovation at ByteFest 2K25 ✨
